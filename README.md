@@ -14,7 +14,6 @@ Presently, I'm working at [MWM](https://mwm.io/), developing an ecosystem of "cr
 - [Play Store developer page](https://play.google.com/store/apps/dev?id=5113011815396039257)
 
 #### Articles
-##### Medium
 - [How ViewModel works under the hood](https://medium.com/proandroiddev/how-viewmodel-works-under-the-hood-52a4f1ff64cf)
 - [How to speed up Android app build time](https://medium.com/@bowser-f/speed-up-your-android-app-build-time-with-these-simple-tips-31a72d3aeec3)
 - [Generate Bill of Material (BOM) with Gradle maven-publish plugin](https://medium.com/mwm-io/generate-bill-of-material-bom-with-maven-publish-plugin-f30b44ab5436)
