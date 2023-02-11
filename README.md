@@ -21,7 +21,11 @@ Presently, I'm working at [MWM](https://mwm.io/), developing an ecosystem of "cr
 - [Make C/C++ stack trace more understandable on Firebase Crashlytics and PlayStore](https://medium.com/@bowser-f/get-explicit-native-stack-traces-on-crashlytics-and-play-store-when-your-app-depends-on-c-c-sdk-e0be94c95f32)
 
 #### Conferences
+<img src="https://raw.githubusercontent.com/bowserf/bowserf/main/resources/android_makers_2022.png" align="left" width="30%" height="30%">
+
 - [Win the hearts of Chrome OS users](https://www.youtube.com/watch?v=F8E3Pne_IeY): How to adapt your application for Chromebooks. Talk done during [Android Makers](https://androidmakers.droidcon.com/) 2022.
+
+<br clear="left"/>
 
 #### Personnal Android applications
 - [Unit converter](https://play.google.com/store/apps/details?id=fr.bowser.converter.canada_france): Help people moving from Europe to Canada or the contrary to convert units in both way, apply taxes and tips on currency values, etc...
