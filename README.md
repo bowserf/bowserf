@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-Currently working at [MWM](https://mwm.io/).
+- Android lover since I got my first smartphone running [Gingerbread](https://en.wikipedia.org/wiki/Android_Gingerbread), I started Android development in 2014. 
+- For me, there is no better job than being a developer. With just a computer, you can build approximately everything. You just need to learn stuff. There is no dependency on material things. The only limitation is your imagination to invent new things!
+- I spend some time making iOS development to know the difference (tools, project structure, language, environment).
+- Currently learning to make Gradle works for me instead of being afraid to interact with it.
+
+Presently, I'm working at [MWM](https://mwm.io/), developing an ecosystem of "creative" apps that interact together to unleash people's creativity.
 
 #### Socials:
 - [Twitter account](https://twitter.com/bowser_f) 
@@ -19,22 +24,7 @@ Currently working at [MWM](https://mwm.io/).
 #### Conferences
 - [Win the hearts of Chrome OS users](https://www.youtube.com/watch?v=F8E3Pne_IeY): How to adapt your application for Chromebooks. Talk done during [Android Makers]([url](https://androidmakers.droidcon.com/)) 2022.
 
-#### Android applications
+#### Personnal Android applications
 - [Unit converter](https://play.google.com/store/apps/details?id=fr.bowser.converter.canada_france): Help people moving from Europe to Canada or the contrary to convert units in both way, apply taxes and tips and currency values.
 - [Time Tracker](https://play.google.com/store/apps/details?id=fr.bowser.time): Track the time you pass on  daily tasks to discover where you can optimize your day to become more productive.
 - [Screen info](https://play.google.com/store/apps/details?id=fr.bowser.screen_info): Get information on your device (model, Android version, screen density, number of pixels).
-
-<!--
-**bowserf/bowserf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
