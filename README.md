@@ -25,6 +25,6 @@ Presently, I'm working at [MWM](https://mwm.io/), developing an ecosystem of "cr
 - [Win the hearts of Chrome OS users](https://www.youtube.com/watch?v=F8E3Pne_IeY): How to adapt your application for Chromebooks. Talk done during [Android Makers](https://androidmakers.droidcon.com/) 2022.
 
 #### Personnal Android applications
-- [Unit converter](https://play.google.com/store/apps/details?id=fr.bowser.converter.canada_france): Help people moving from Europe to Canada or the contrary to convert units in both way, apply taxes and tips and currency values.
+- [Unit converter](https://play.google.com/store/apps/details?id=fr.bowser.converter.canada_france): Help people moving from Europe to Canada or the contrary to convert units in both way, apply taxes and tips on currency values, etc...
 - [Time Tracker](https://play.google.com/store/apps/details?id=fr.bowser.time): Track the time you pass on  daily tasks to discover where you can optimize your day to become more productive.
 - [Screen info](https://play.google.com/store/apps/details?id=fr.bowser.screen_info): Get information on your device (model, Android version, screen density, number of pixels).
