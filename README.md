@@ -14,6 +14,7 @@ Presently, I'm working at [MWM](https://mwm.io/), developing an ecosystem of "cr
 - [Play Store developer page](https://play.google.com/store/apps/dev?id=5113011815396039257)
 
 #### Articles
+- [Are you sure you know how Kotlin Flow works?](https://medium.com/@bowser-f/are-you-sure-you-know-how-kotlin-flow-works-e070f6d00cbc)
 - [Make Gradle work for you - Create your own Tasks and Plugins](https://medium.com/@bowser-f/make-gradle-do-more-work-for-you-than-just-build-your-android-app-9462baa08951)
 - [How ViewModel works under the hood](https://medium.com/proandroiddev/how-viewmodel-works-under-the-hood-52a4f1ff64cf)
 - [How to speed up Android app build time](https://medium.com/@bowser-f/speed-up-your-android-app-build-time-with-these-simple-tips-31a72d3aeec3)
@@ -22,6 +23,15 @@ Presently, I'm working at [MWM](https://mwm.io/), developing an ecosystem of "cr
 - [Make C/C++ stack trace more understandable on Firebase Crashlytics and PlayStore](https://medium.com/@bowser-f/get-explicit-native-stack-traces-on-crashlytics-and-play-store-when-your-app-depends-on-c-c-sdk-e0be94c95f32)
 
 #### Conferences
+
+<img src="https://raw.githubusercontent.com/bowserf/bowserf/main/resources/android_makers_2023.png" align="left" width="30%" height="30%">
+
+- [Make Gradle work for you](https://www.youtube.com/watch?v=7j-X8OUj5CE): Learn how to create your own  Gradle Tasks and Gradle Plugins. Talk done during [Android Makers by droidcon](https://androidmakers.droidcon.com/) 2023.
+
+<br clear="left"/>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/bowserf/bowserf/main/resources/android_makers_2022.png" align="left" width="30%" height="30%">
 
 - [Win the hearts of Chrome OS users](https://www.youtube.com/watch?v=F8E3Pne_IeY): How to adapt your application for Chromebooks. Talk done during [Android Makers](https://androidmakers.droidcon.com/) 2022.
