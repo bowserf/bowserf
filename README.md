@@ -14,6 +14,7 @@ Presently, I'm working at [MWM](https://mwm.io/), developing an ecosystem of "cr
 - [Play Store developer page](https://play.google.com/store/apps/dev?id=5113011815396039257)
 
 #### Articles
+- [Display Android notifications with a contact image on the left, like all messaging apps](https://medium.com/proandroiddev/display-android-notifications-with-a-contact-image-on-the-left-like-all-messaging-apps-bbd108f5d147)	
 - [Are you sure you know how Kotlin Flow works?](https://medium.com/@bowser-f/are-you-sure-you-know-how-kotlin-flow-works-e070f6d00cbc)
 - [Make Gradle work for you - Create your own Tasks and Plugins](https://medium.com/@bowser-f/make-gradle-do-more-work-for-you-than-just-build-your-android-app-9462baa08951)
 - [How ViewModel works under the hood](https://medium.com/proandroiddev/how-viewmodel-works-under-the-hood-52a4f1ff64cf)
